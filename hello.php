@@ -6,9 +6,14 @@
     <title>PHP TEST</title>
 </head>
 <body>
+    // this is printing hello world
 <?php
+// this is printing hello world
+/*multiple
+line comments
+*/
 
-echo "Hello World";
+echo "<h1>Hello World ";
 ?>
 </body>
 </html>
